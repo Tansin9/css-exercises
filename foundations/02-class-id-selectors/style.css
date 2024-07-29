@@ -1,0 +1,17 @@
+.old-number-element{
+    background-color: #ffc0cb;
+    font-family: verdana,Dejavu-sans,sans-serif;
+
+}
+#even1{
+    color: #0000ff;
+    font-size: 36px;
+}
+.extra{
+    font-size: 24px;
+}
+#even2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
